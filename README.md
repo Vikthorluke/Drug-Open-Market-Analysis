@@ -13,6 +13,8 @@
 
 ## Project Overview
 This analysis aims to provide insights on the demands and sales of drug products in the Lagos Drug open market; Idumota. By collecting and analyzing data from the weekly activities of different wholesale Outlets in the market, we seek to uncover insights and patterns based on the highest and lowest products in demand together with the products with the highest and lowest revenues. This analysis will give stakeholders the tools and knowledge to make informed decisions based on the data provided.
+<img width="1365" height="693" alt="drug market analysis" src="https://github.com/user-attachments/assets/2aa8f55f-d79a-4620-b937-cf4f4ac47691" />
+
 
 ## Data Sources
 This Data was collected manually from 11 major Outlets in Idumota. The Outlets are presumed to be the most performing ones out of over 3000 outlets. 
