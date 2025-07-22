@@ -31,6 +31,8 @@ In the collection process the following data was collected;
 4.	Consumption rate per week.
 5.	Manufacturing country.
 6.	Marketer or Company
+
+
 In the preparation process, Data was entered, cross checked and cleaned.
 
 ## Exploratory Data Analysis
